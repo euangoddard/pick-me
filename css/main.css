@@ -1,0 +1,200 @@
+/* ==========================================================================
+   HTML5 Boilerplate styles - h5bp.com (generated via initializr.com)
+   ========================================================================== */
+
+html,
+button,
+input,
+select,
+textarea {
+    color: #222;
+    font-family: 'Droid Sans', sans-serif;
+}
+
+body {
+    font-size: 1em;
+}
+
+::-moz-selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+::selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+img {
+    vertical-align: middle;
+}
+
+fieldset {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+textarea {
+    resize: vertical;
+}
+
+body {
+    font-family: 'Droid Sans', sans-serif;
+    font-size: 24px;
+}
+
+#outer-box {
+    border: 5px solid #222;
+    width: 18em;
+    position: relative;
+    height: 1.5em;
+    overflow: hidden;
+    margin: 1em auto;
+}
+.cog {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 0;
+    text-align: center;
+    -webkit-transition: all 3s ease-in-out;
+    -moz-transition: all 3s ease-in-out;
+    -ms-transition: all 3s ease-in-out;
+    -o-transition: all 3s ease-in-out;
+    transition: all 3s ease-in-out;
+}
+.cog:nth-child(1) {
+    left: 0.0em;
+}
+.cog:nth-child(2) {
+    left: 1.5em;
+}
+.cog:nth-child(3) {
+    left: 3.0em;
+}
+.cog:nth-child(4) {
+    left: 4.5em;
+}
+.cog:nth-child(5) {
+    left: 6.0em;
+}
+.cog:nth-child(6) {
+    left: 7.5em;
+}
+.cog:nth-child(7) {
+    left: 9.0em;
+}
+.cog:nth-child(8) {
+    left: 10.5em;
+}
+.cog:nth-child(9) {
+    left: 12.0em;
+}
+.cog:nth-child(10) {
+    left: 13.5em;
+}
+.cog:nth-child(11) {
+    left: 15.0em;
+}
+.cog:nth-child(12) {
+    left: 16.5em;
+}
+
+.cog li {
+    line-height: 1.5;
+    width: 1.5em;
+    height: 1.5em;
+    display: block;
+}
+.cog.space {
+    top: 0;
+}
+.cog.letter-A {
+    top: -1.5em;
+}
+.cog.letter-B {
+    top: -3.0em;
+}
+.cog.letter-C {
+    top: -4.5em;
+}
+.cog.letter-D {
+    top: -6.0em;
+}
+.cog.letter-E {
+    top: -7.5em;
+}
+.cog.letter-F {
+    top: -9.0em;
+}
+.cog.letter-G {
+    top: -10.5em;
+}
+.cog.letter-H {
+    top: -12.0em;
+}
+.cog.letter-I {
+    top: -13.5em;
+}
+.cog.letter-J {
+    top: -15.0em;
+}
+.cog.letter-K {
+    top: -16.5em;
+}
+.cog.letter-L {
+    top: -18.0em;
+}
+.cog.letter-M {
+    top: -19.5em;
+}
+.cog.letter-N {
+    top: -21.0em;
+}
+.cog.letter-O {
+    top: -22.5em;
+}
+.cog.letter-P {
+    top: -24.0em;
+}
+.cog.letter-Q {
+    top: -25.5em;
+}
+.cog.letter-R {
+    top: -27.0em;
+}
+.cog.letter-S {
+    top: -28.5em;
+}
+.cog.letter-T {
+    top: -30.0em;
+}
+.cog.letter-U {
+    top: -31.5em;
+}
+.cog.letter-V {
+    top: -33.0em;
+}
+.cog.letter-W {
+    top: -34.5em;
+}
+.cog.letter-X {
+    top: -36.0em;
+}
+.cog.letter-Y {
+    top: -37.5em;
+}
+.cog.letter-Z {
+    top: -39.0em;
+}
